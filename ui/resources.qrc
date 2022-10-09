@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons/focus.png</file>
+    <file>icons/propeller.png</file>
+    <file>icons/right-arrow.png</file>
+    <file>icons/pickup-truck.png</file>
+    <file>icons/bird.png</file>
+    <file>icons/menu-button-of-three-horizontal-lines.png</file>
+    <file>icons/camera.png</file>
+  </qresource>
+</RCC>
